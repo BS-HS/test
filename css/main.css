@@ -892,7 +892,7 @@ header .badges .badge {
 }
 
 .awards .swiper-prev:hover,
-.swiper-next:hover {
+.awards .swiper-next:hover {
   background-color: #fff;
   color: #333;
 }
